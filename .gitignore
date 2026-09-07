@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+data/
+outputs/
+.rockyou_cache.txt
+.rockyou_full_cache.txt
+kaggle.json
+.kaggle/

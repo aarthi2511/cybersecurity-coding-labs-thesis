@@ -1,0 +1,22 @@
+{
+  "203.0.113.50": {
+    "country": "CN",
+    "city": "Beijing"
+  },
+  "123.125.114.144": {
+    "country": "CN",
+    "city": "Shanghai"
+  },
+  "198.51.100.10": {
+    "country": "US",
+    "city": "New York"
+  },
+  "203.0.113.3": {
+    "country": "Unknown",
+    "city": "Unknown"
+  },
+  "203.0.113.1": {
+    "country": "Unknown",
+    "city": "Unknown"
+  }
+}

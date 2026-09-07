@@ -1,0 +1,67 @@
+{
+  "run_seed": 2952747501,
+  "brand": "paypal",
+  "is_phishing": true,
+  "technique": "subdomain",
+  "urls": [
+    {
+      "original_url": "https://paypal.secure0.secure1.secure2.malicious.ru/login",
+      "redirect_chain": [
+        {
+          "url": "https://redir-0kdah98jck.club/go?u=0",
+          "status_code": 302,
+          "is_redirect": true
+        },
+        {
+          "url": "https://redir-djg64n0lno.xyz/go?u=1",
+          "status_code": 302,
+          "is_redirect": true
+        },
+        {
+          "url": "https://paypal.secure0.secure1.secure2.malicious.ru/login",
+          "status_code": 200,
+          "is_redirect": false
+        }
+      ],
+      "final_url": "https://paypal.secure0.secure1.secure2.malicious.ru/login",
+      "hop_count": 2,
+      "crosses_tld": true
+    },
+    {
+      "original_url": "https://paypal.secure0.secure1.malicious.club/login",
+      "redirect_chain": [
+        {
+          "url": "https://redir-5gf30n339n.top/go?u=0",
+          "status_code": 302,
+          "is_redirect": true
+        },
+        {
+          "url": "https://paypal.secure0.secure1.malicious.club/login",
+          "status_code": 200,
+          "is_redirect": false
+        }
+      ],
+      "final_url": "https://paypal.secure0.secure1.malicious.club/login",
+      "hop_count": 1,
+      "crosses_tld": true
+    },
+    {
+      "original_url": "https://paypal.secure0.malicious.pw/login",
+      "redirect_chain": [
+        {
+          "url": "https://redir-pjmakdgl4p.gq/go?u=0",
+          "status_code": 302,
+          "is_redirect": true
+        },
+        {
+          "url": "https://paypal.secure0.malicious.pw/login",
+          "status_code": 200,
+          "is_redirect": false
+        }
+      ],
+      "final_url": "https://paypal.secure0.malicious.pw/login",
+      "hop_count": 1,
+      "crosses_tld": true
+    }
+  ]
+}

