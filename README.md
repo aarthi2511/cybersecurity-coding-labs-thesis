@@ -78,8 +78,6 @@ See Section 4.7 of the thesis for full installation instructions, including
 
 
 
-Python/package requirements and Kaggle API setup (needed for Lab 2 and Lab 3.0).
-
 
 
 
